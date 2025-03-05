@@ -1,5 +1,12 @@
 .container__menu-title{
     color: white;
+
+    /* Adicionando a imagem de fundo */
+    background-image: url('https://ik.imagekit.io/ajt99blle/7901954.jpg?updatedAt=1741214507799');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px; /* Para dar espaço ao redor do título */
   }
   
   .container__menu-title > h1{
